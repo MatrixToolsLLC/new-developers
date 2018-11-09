@@ -11,3 +11,5 @@ https://www.w3schools.com/html/html_basic.asp
 ## HTML Exercises
 https://www.w3schools.com/html/html_exercises.asp
 
+## CSS Resources
+https://www.w3schools.com/css/css_syntax.asp
