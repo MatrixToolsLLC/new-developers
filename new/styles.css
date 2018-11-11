@@ -1,3 +1,31 @@
-div {
-  color: red;
-}
+.A {
+  position: absolute;
+  top: 50px;
+  left: 200px;
+  background-color: red;
+  width: 400px;
+  height: 400px;
+  }
+.B {
+   position: absolute;
+   top: 50px;
+   right: 200px;
+   background-color: blue;
+   width: 400px;
+   height: 400px;
+   }
+.C {
+  position: absolute;
+  bottom: 50px;
+  left: 200px;
+  background-color: green;
+  width: 400px;
+  height: 400px
+  }
+.D {
+  position: absolute;
+  bottom: 50px;
+  right: 200px;
+  background-color: yellow;
+  width: 400px;
+  height: 400px;
