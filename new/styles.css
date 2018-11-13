@@ -1,40 +1,23 @@
-img {
-  height: 50%;
-  width:50%;
-}
-
 .red-square {
-  width: 50%;
-  height: 50%;
+  width: 50px;
+  height: 50px;
   background-color: red;
 }
 
 .blue-square {
-  position: relative;
-  left: 7%;
-  bottom: 25%;
-   width: 30%;
-   height: 30%;
-   padding: 17%;
+   width:50px;
+   height:50px;
    background-color: blue;
 }
 
 .green-square {
-  position: relative;
-  top:25%;
-  left: 5%;
-  width: 50%;
-  height: 50%;
-  padding: 17%;
+  width: 50px;
+  height: 50px;
   background-color: green;
 }
 
 .yellow-square {
-  position: relative;
-  top:25%;
-  left: 15%;
-  width: 50%;
-  height: 50%;
-  padding: 17%;
+  width: 50px;
+  height: 50px;
   background-color: yellow;
 }
