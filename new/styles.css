@@ -8,6 +8,7 @@
    width:50px;
    height:50px;
    background-color: blue;
+   float:right;
 }
 
 .green-square {
@@ -20,4 +21,5 @@
   width: 50px;
   height: 50px;
   background-color: yellow;
+  float:right;
 }
