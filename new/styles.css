@@ -2,6 +2,8 @@
   width: 50px;
   height: 50px;
   background-color: red;
+  padding:110px;
+  position:relative;
 }
 
 .blue-square {
@@ -9,12 +11,19 @@
    height:50px;
    background-color: blue;
    float:right;
+   position:relative;
+   bottom:270px;
+   padding:110px;
 }
 
 .green-square {
   width: 50px;
   height: 50px;
   background-color: green;
+  position:relative;
+  top:250px;
+  padding:110px;
+
 }
 
 .yellow-square {
@@ -22,4 +31,8 @@
   height: 50px;
   background-color: yellow;
   float:right;
+  position:relative;
+  bottom:20px;
+  padding:110px;
+
 }
