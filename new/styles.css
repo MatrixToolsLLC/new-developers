@@ -9,9 +9,9 @@
    width:50px;
    height:50px;
    background-color: blue;
-   float:right;
    position:relative;
    bottom:270px;
+   left:1600px;
    padding:110px;
 }
 
@@ -29,9 +29,16 @@
   width: 50px;
   height: 50px;
   background-color: yellow;
-  float:right;
   position:relative;
   bottom:20px;
+  left: 1600px;
   padding:110px;
 
+}
+.lou-albano {
+  width:600px;
+  height:600px;
+  position:relative;
+  bottom:950px;
+  left:650px;
 }
