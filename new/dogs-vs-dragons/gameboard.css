@@ -1,0 +1,12 @@
+.cell {
+    width: 10%;
+    height: 10vh;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.status-bar > .cell {
+    width: 10%;
+    height: 20vh;
+    background-color: gray;
+}
