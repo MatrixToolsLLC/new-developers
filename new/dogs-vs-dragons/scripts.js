@@ -4,6 +4,6 @@ $(function () {
     $(this).css('background-color', 'blue')
   });
   $('.dancing').click(function(){
-    $(this).animate({left: '250px'});
+    $(this).animate({left:'250px'});
   });
 });
