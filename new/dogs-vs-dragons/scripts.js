@@ -4,6 +4,15 @@ $(function () {
     $(this).css('background-color', 'blue')
   });
   $('.dancing').click(function(){
-    $(this).animate({left:'250px'});
+    var dance = $('.dancing');
+    dance.animate({right: '250px'});
+    dance.animate({bottom: '50px'});
+    dance.animate({left: '250px'});
+    dance.animate({top: '400px'});
+    dance.animate({left: '700px'});
+    $('.dancing').promise().done(function() {
+      $('.dancing').hide();
+      $('*').hide(500);
+    });
   });
 });
